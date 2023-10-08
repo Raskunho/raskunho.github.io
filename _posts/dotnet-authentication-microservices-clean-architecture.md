@@ -5,7 +5,7 @@ categories:  example
 tags: aspnetcore dotnet c# microservice clean hexagonal architecture jwt
 ---
 
-![/authentication-diagram](/authentication-diagram.png)
+![/authentication-diagram](/_posts/authentication-diagram.png)
 
 ## Table of Contents
 
